@@ -1,0 +1,124 @@
+﻿<NationalPark xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml NationalParks.xsd">
+	<NationalPark Rating="4.9">
+		<Name>Grand Canyon</Name>
+		<Phone>928-638 7496</Phone>
+		<Phone>888-297 2757</Phone>
+		<Phone>866-499 2574</Phone>
+		<Address NearestAirport="Flagstaff">
+			<Number>8</Number>
+			<Street>S Entrance Road</Street>
+			<City>Grand Canyon</City>
+			<State>AZ</State>
+			<Zip>86023</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="6.5">
+		<Name>Acadia</Name>
+		<Phone>207-288 3338</Phone>
+		<Address NearestAirport="Bar Harbor">
+			<Number>25</Number>
+			<Street>Visitor Center Road</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zip>04609</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Badlands</Name>
+		<Phone>605-433 5361</Phone>
+		<Address>
+			<Number>25216</Number>
+			<Street>Ben Reifel Road</Street>
+			<City>Interior</City>
+			<State>SD</State>
+			<Zip>57750</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="1.1">
+		<Name>Capitol Reef</Name>
+		<Address NearestAirport="Grand Junction">
+			<Number>52</Number>
+			<Street>West Headquarters Drive</Street>
+			<City>Torrey</City>
+			<State>UT</State>
+			<Zip>84775</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Death Valley</Name>
+		<Phone>760-786 3200</Phone>
+		<Address NearestAirport="FlagStaff">
+			<Number>579</Number>
+			<Street>P.O. Box</Street>
+			<City>Death Valley</City>
+			<State>CA</State>
+			<Zip>92328</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="5.9">
+		<Name>Isle Royale</Name>
+		<Phone>906-482 0984</Phone>
+		<Address NearestAirport="Thunder Bay">
+			<Number>800</Number>
+			<Street>East Lakeshore Drive</Street>
+			<City>Houghton</City>
+			<State>MI</State>
+			<Zip>49931</Zip>
+	</NationalPark>
+	<NationalPark Rating="9.0">
+		<Name>Katmai</Name>
+		<Phone>907-246 3305</Phone>
+		<Address NearestAirport="King Salmon">
+			<Number>1000</Number>
+			<Street>Siolver Street</Street>
+			<City>King Salmon</City>
+			<State>AK</State>
+			<Zip>99613</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Lassen Volcanic</Name>
+		<Name>Curtis Israel</Name>
+		<Phone>530-595 6100</Phone>
+		<Address NearestAirport="Redding">
+			<Number>38050</Number>
+			<Street>Highway 36 East</Street>
+			<City>Mineral</City>
+			<State>CA</State>
+			<Zip>96063</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="7.5">
+		<Name>Pinnacles</Name>
+		<Phone>831-389 4486</Phone>
+		<Address NearestAirport="Monterey">
+			<Number>5000</Number>
+			<Street>East Entrance Road</Street>
+			<City>Paicines</City>
+			<State>CA</State>
+			<Zip>95043</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark Rating="3.0">
+		<Name>Sequoia</Name>
+		<Phone>559-565 3341</Phone>
+		<Address NearestAirport="Fresno Yosemite">
+			<Number>47050</Number>
+			<Street>Generals Highway</Street>
+			<City>Three Rivers</City>
+			<State>CA</State>
+			<Zip>93271</Zip>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<Name>Voyageurs</Name>
+		<Phone>218-283 6600</Phone>
+		<Address NearestAirport="Falls">
+			<Number>1797</Number>
+			<Street>Township Rd 342</Street>
+			<City>International Falls</City>
+			<State>MN</State>
+			<Zip>56649</Zip>
+		</Address>
+	</NationalPark>
+</NationalPark>
