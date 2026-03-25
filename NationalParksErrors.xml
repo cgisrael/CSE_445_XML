@@ -64,6 +64,7 @@
 			<City>Houghton</City>
 			<State>MI</State>
 			<Zip>49931</Zip>
+		</Address>
 	</NationalPark>
 	<NationalPark Rating="9.0">
 		<Name>Katmai</Name>
