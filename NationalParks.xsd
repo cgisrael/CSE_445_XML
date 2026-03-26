@@ -1,6 +1,6 @@
 ﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"  elementFormDefault="qualified">
 	<xsd:element name="NationalParks">
-	 <xsd:complexType
+	 <xsd:complexType>
 		<xsd:sequence>
 			<xsd:element name="NationalPark" maxOccurs="unbounded">
 				<xsd:complexType>
