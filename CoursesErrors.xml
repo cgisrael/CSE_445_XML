@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Course
    xmlns ="http://venus.sod.asu.edu/WSRepository/xml"
-   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Courses.xsd">
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <Course>
       <Code Undergrad="CSE240"></Code>
       <Name>Introduction to Programming Languages</Name>
