@@ -1,4 +1,4 @@
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xlmns="https://cgisrael.github.io/CSE_445_XML" targetNamespace="https://cgisrael.github.io/CSE_445_XML" elementFormDefault="qualified" attributeFromDefault="unqualified">
 	<xsd:element name="NationalParks">
 		<xsd:complexType>
 			<xsd:sequence>
@@ -20,7 +20,7 @@
 								</xsd:complexType>
 							</xsd:element>
 						</xsd:sequence>
-					<xsd:attribute name="Rating" type="xsd:decimal" use="optional"/>
+					<xsd:attribute name="Rating" type="xsd:string" use="optional"/>
 					</xsd:complexType>
 				</xsd:element>
 			</xsd:sequence>
