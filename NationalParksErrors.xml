@@ -1,5 +1,5 @@
-<NationalPark xmlns="https://cgisrael.github.io/CSE_445_XML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://cgisrael.github.io/CSE_445_XML NationalParks.xsd">
-	<NationalPark Rating="4.9">
+
+	<NationalPark Rating="4.9" xmlns="https://cgisrael.github.io/CSE_445_XML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://cgisrael.github.io/CSE_445_XML NationalParks.xsd">
 		<Name>Grand Canyon</Name>
 		<Phone>928-638 7496</Phone>
 		<Phone>888-297 2757</Phone>
@@ -121,4 +121,3 @@
 			<State>MN</State>
 			<Zip>56649</Zip>
 	</NationalPark>
-</NationalPark>
